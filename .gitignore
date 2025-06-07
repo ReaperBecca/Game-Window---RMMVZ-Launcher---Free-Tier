@@ -116,14 +116,6 @@ Thumbs.db
 *.sln
 *.sw?
 
-# Game folders - don't include actual games in the repository
-# But keep the core launcher files
-/*/
-!src/
-src/game/*/
-!src/game/*.html
-!src/game/*.js
-
 # Keep essential files
 !.gitignore
 !README.MD
