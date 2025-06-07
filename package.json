@@ -44,6 +44,9 @@
         "rpm"
       ],
       "category": "Development"
+    },
+    "nsis": {
+      "oneClick": false
     }
   }
 }
