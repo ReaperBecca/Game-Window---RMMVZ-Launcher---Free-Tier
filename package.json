@@ -45,6 +45,12 @@
       ],
       "category": "Development"
     },
+  "files": [
+    "main.js",
+    "src/**/*",
+    "package.json",
+    "package-lock.json"
+  ],
     "nsis": {
       "oneClick": false
     }
